@@ -11,7 +11,7 @@ def scan_type
                  description: 'Type of scan that is going to perform inside the container',
                  name: 'SCAN_TYPE'
 
-         string defaultValue: "http://44.212.16.46:8080/",
+         string defaultValue: "http://54.89.210.191:8080/",
                  description: 'Target URL to scan',
                  name: 'TARGET'
 
